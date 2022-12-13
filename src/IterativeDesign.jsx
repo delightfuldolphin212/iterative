@@ -16,7 +16,7 @@ export default function IterativeDesign(props) {
       <h2 className="project-title">Iterative Redesign</h2>
       <h6 className="project-date">November 9, 2022</h6>
       <img
-        src={require("./assets/iterative-design/header.png")}
+        src={require("./assets/iterative-design/header.jpg")}
         alt="Header"
         className="header-video"
       />
@@ -87,7 +87,7 @@ export default function IterativeDesign(props) {
           <Carousel.Item interval={700}>
             <img
               className="d-block w-100"
-              src={require("./assets/iterative-design/wireframe-slide3.png")}
+              src={require("./assets/iterative-design/wireframe-slide3.jpg")}
               alt="Third slide"
             />
           </Carousel.Item>
